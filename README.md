@@ -1,6 +1,6 @@
 # E-commerce System in C++
 
-This project implements a simple e-commerce system in C++ as per the requirements of the Fawry Quantum Internship Challenge.
+This project implements a  e-commerce system in C++.
 
 ## Features:
 - Product definition with name, price, and quantity.
