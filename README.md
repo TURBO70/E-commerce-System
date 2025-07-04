@@ -1,6 +1,6 @@
 # E-commerce System in C++
 
-This project implements a  e-commerce system in C++.
+This project implements an e-commerce system in C++.
 
 ## Features:
 - Product definition with name, price, and quantity.
